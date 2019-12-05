@@ -1,0 +1,10 @@
+{
+    "usuarios": [
+        {
+            "nome": "Teste",
+            "email": "teste@gmail.com",
+            "senha": "$2y$10$X8iK90AuXAEiDTTdc4rtseEJtShh.Vz/69Iv3xJGFPX7O3VNfPxFS",
+            "avatar": "avatar2.jpg"
+        }
+    ]
+}
